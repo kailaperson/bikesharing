@@ -5,10 +5,14 @@
 
 ## Results 
 - During the month of August, this was the total number of trips.
-![Screen Shot 2022-06-15 at 2 06 36 PM](https://user-images.githubusercontent.com/97639454/173929985-aefe426c-12b7-4604-a827-8faf0eb483f1.png)
+![Screen Shot 2022-08-04 at 12 06 23 PM](https://user-images.githubusercontent.com/97639454/182933243-da68e3d3-4a95-4529-a205-ac8362f92e44.png)
 
 - This is the gender breakdown of the Citi Bike riders to help us learn more about the customers.
-![Screen Shot 2022-06-15 at 2 07 56 PM](https://user-images.githubusercontent.com/97639454/173930199-0a3bf5d0-5698-454a-9416-7c2128e4fc01.png)
+![Screen Shot 2022-08-04 at 12 03 37 PM](https://user-images.githubusercontent.com/97639454/182932992-dc0306d1-5e2f-4b5f-8932-29ddf577a4be.png)
+
+![Screen Shot 2022-08-04 at 12 04 34 PM](https://user-images.githubusercontent.com/97639454/182933004-75496ead-3940-4ee8-9170-38479e7a9d48.png)
+
+![Screen Shot 2022-08-04 at 12 04 13 PM](https://user-images.githubusercontent.com/97639454/182933017-18f0ec63-dd9e-4764-9a51-fc391f08d804.png)
 
 - This visualization shows the length of time that the bikes are checked out by all users.
 ![Screen Shot 2022-06-15 at 2 08 44 PM](https://user-images.githubusercontent.com/97639454/173930339-fa4fc13d-b795-4cc6-8ccb-dd879ee11df7.png)
